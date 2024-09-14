@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sofia C. Pereira ( @sofiacper )
 - 👀 I’m interested in Sports, Data Science, AI and it's intersection with Engineering.
-- 🌱 I just finished the first year of my Master's degree and will be focusing on my Thesis next semester.
-- 💞️ I’m looking to collaborate on any new project or idea!
+- 🌱 I am currently in my second year of Masters working on my Thesis!
+- 💞️ I’m open to collaborate on any new project or idea!
 - 📫 How to reach me: https://www.linkedin.com/in/sofia-pereira-488648208/
 - 😄 Pronouns: she/her
 
